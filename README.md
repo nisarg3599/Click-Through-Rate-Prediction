@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <title>Click-Through Rate (CTR) Prediction</title>
-</head>
-
 <body>
     <h1>Click-Through Rate (CTR) Prediction</h1>
     <h2>Overview</h2>
