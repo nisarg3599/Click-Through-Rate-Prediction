@@ -58,8 +58,8 @@
     <ol>
         <li>Clone the repository:</li>
         ```bash
-        git clone https://github.com/your-username/ctr-prediction.git
-        cd ctr-prediction
+        git clone https://github.com/your-username/Click-Through-Rate-Prediction.git
+        cd Click-Through-Rate-Prediction
         ```
         <li>Explore the notebooks in the <code>notebooks/</code> directory.</li>
         <li>Review the presentation slides in the <code>presentation/</code> folder.</li>
