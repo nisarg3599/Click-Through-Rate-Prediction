@@ -4,7 +4,7 @@
 <body>
     <h1>Click-Through Rate (CTR) Prediction</h1>
     <h2>Overview</h2>
-    <p>This repository contains the solution for the Click-Through Rate (CTR) Prediction assignment. The objective is to predict whether a user will click on an ad or not using classification methods. The dataset consists of 99,999 rows and 27 columns.</p>
+    <p>This repository contains the solution for the Click-Through Rate (CTR) Prediction Project. The objective is to predict whether a user will click on an ad or not using classification methods. The dataset consists of 99,999 rows and 27 columns.</p>
     <h2>Problem Statement</h2>
     <p>As a data scientist working for a marketing company, the task is to draw insights from the dataset and predict click-through rates. The assignment involves:</p>
     <ol>
